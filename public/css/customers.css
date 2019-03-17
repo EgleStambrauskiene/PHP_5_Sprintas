@@ -1,0 +1,67 @@
+/* line 1, ../../../../customers/resources/sass/customers.scss */
+html, body {
+  background-color: #fff;
+  color: #636b6f;
+  font-family: 'Nunito', sans-serif;
+  font-weight: 400;
+  font-size: 1rem;
+  height: 100vh;
+  margin: 0;
+}
+
+/* line 11, ../../../../customers/resources/sass/customers.scss */
+.full-height {
+  height: 100vh;
+}
+
+/* line 11, ../../../../customers/resources/sass/customers.scss */
+.full-height {
+  height: 100vh;
+}
+
+/* line 15, ../../../../customers/resources/sass/customers.scss */
+.flex-center {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+/* line 21, ../../../../customers/resources/sass/customers.scss */
+.position-ref {
+  position: relative;
+}
+
+/* line 25, ../../../../customers/resources/sass/customers.scss */
+.top-right {
+  position: absolute;
+  right: 10px;
+  top: 18px;
+}
+
+/* line 31, ../../../../customers/resources/sass/customers.scss */
+.content {
+  text-align: center;
+}
+
+/* line 35, ../../../../customers/resources/sass/customers.scss */
+.title {
+  font-size: 84px;
+}
+
+/* line 39, ../../../../customers/resources/sass/customers.scss */
+.links > a {
+  color: #636b6f;
+  padding: 0 25px;
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: .1rem;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+/* line 49, ../../../../customers/resources/sass/customers.scss */
+.m-b-md {
+  margin-bottom: 30px;
+}
+
+/*# sourceMappingURL=customers.css.map */
